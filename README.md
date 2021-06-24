@@ -62,13 +62,13 @@ def homePage():
 a.	After installing the Heroku CLI, Open a command prompt window and navigate to your ‘reviewScrapper’ folder.<br>
 b.	Type the command ‘heroku login’ to login to your heroku account as shown   below:<br>
  
-c.	After logging in to Heroku, enter the command ‘heroku create’ to create a heroku app. It will give you the URL of your Heroku app after successful creation.
-d.	Before deploying the code to the Heroku cloud, we need to commit the changes to the local git repository.
-e.	Type the command ‘git init to initialize a local git repository  as shown below:
+c.	After logging in to Heroku, enter the command ‘heroku create’ to create a heroku app. It will give you the URL of your Heroku app after successful creation.<br>
+d.	Before deploying the code to the Heroku cloud, we need to commit the changes to the local git repository.<br>
+e.	Type the command ‘git init to initialize a local git repository  as shown below:<br>
  
-f.	Enter the command ‘git status’ to see the uncommitted changes
-g.	Enter the command ‘git add .’ to add the uncommitted changes to the local repository.
-h.	Enter the command ‘git commit -am "make it better"’ to commit the changes to the local repository.
-i.	Enter the command ‘git push heroku master’ to push the code to the heroku cloud.
-j.	After deployment, heroku gives you the URL to hit the web API.
-k.	Once your application is deployed successfully, enter the command ‘heroku logs --tail’ to see the logs.
+f.	Enter the command ‘git status’ to see the uncommitted changes<br>
+g.	Enter the command ‘git add .’ to add the uncommitted changes to the local repository.<br>
+h.	Enter the command ‘git commit -am "make it better"’ to commit the changes to the local repository.<br>
+i.	Enter the command ‘git push heroku master’ to push the code to the heroku cloud.<br>
+j.	After deployment, heroku gives you the URL to hit the web API.<br>
+k.	Once your application is deployed successfully, enter the command ‘heroku logs --tail’ to see the logs.<br>
