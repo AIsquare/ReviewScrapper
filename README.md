@@ -59,8 +59,8 @@ def homePage():
 *	We have removed the part where we were writing to MongoDB. Consuming MongoDB might incur charges. So, we have removed that part. 
 *	
 ## 3.	Heroku app creation and deployment
-a.	After installing the Heroku CLI, Open a command prompt window and navigate to your ‘reviewScrapper’ folder.
-b.	Type the command ‘heroku login’ to login to your heroku account as shown   below:
+a.	After installing the Heroku CLI, Open a command prompt window and navigate to your ‘reviewScrapper’ folder.<br>
+b.	Type the command ‘heroku login’ to login to your heroku account as shown   below:<br>
  
 c.	After logging in to Heroku, enter the command ‘heroku create’ to create a heroku app. It will give you the URL of your Heroku app after successful creation.
 d.	Before deploying the code to the Heroku cloud, we need to commit the changes to the local git repository.
