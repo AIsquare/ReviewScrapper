@@ -1,6 +1,6 @@
-# ReviewScrapper
+# ReviewScrapper - https://scrappy-me.herokuapp.com/
 # Scrapping Product reviews from www.flipkart.com and storing it in the database.
-https://scrappy-me.herokuapp.com/
+
 ![](review.png)
 ## Review scraper from scratch till deployment
 ### 1.	Prerequisites:
